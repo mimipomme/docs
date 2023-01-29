@@ -1,7 +1,5 @@
 # CyberAventure Dashboard
 
----
-
 ## TODO List
 [TODO List - Trello](https://trello.com/b/8E7R4Pjz/to-do-list-cyber-aventure)
 
